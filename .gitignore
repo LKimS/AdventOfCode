@@ -1,0 +1,6 @@
+# Ignore all 'target' directories
+**/target/
+
+
+
+**/DS_Store*
